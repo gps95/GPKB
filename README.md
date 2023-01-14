@@ -10,9 +10,11 @@ I wanted a keyboard that would be easy to maintain, highly customizable and chea
 It consists of 4 rows,7 columns and uses layers for all funcionality of a full sized keyboard on a reduced footprint.
 (I will update this part with some visuals for clarification)
 
-Will use cherry mx type,
+Will use cherry mx type keyswithes, but might do other formats in the future.
 
-# What you will need to have to build your own: [this indicates optional]
+# What you will need to have to build your own:
+
+[this indicates optional]
 
 - V0:
   - 3D printer: For the case, carrying case , [keycaps]
@@ -27,7 +29,7 @@ Will use cherry mx type,
 - V1/Xtra: V0 with the extra microcontroller pin used for linear potentiometer / rotary encoder / something else (ideas welcome).
 - V2/Wless: V0 but wireless(bluetooth), will not use Seed Xiaos.
 
-As i advance this project i will adjust scope.
+As i advance this project i will adjust the scope.
 
 # General requirements of each model
 
@@ -43,7 +45,9 @@ As i advance this project i will adjust scope.
 - Columns are vertically aligned: |
 - Rows adapt to hand shape: .··.
 # Folder Structure
-?
+
+An overview of the folder structure of the project
+
 # Future plans:
 Custom PCB for the V0.
 Create a V1 using the extra free pin on each side (maybe a linear potentiometer/rotary encoder)
